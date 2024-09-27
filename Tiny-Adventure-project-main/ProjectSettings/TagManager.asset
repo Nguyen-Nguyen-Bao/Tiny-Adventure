@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - Sand
+  - Stair
+  - Enemy
+  - Land
+  - Land2
+  - Rock
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 2079278565
+    locked: 0
+  - name: Sand
+    uniqueID: 86162011
+    locked: 0
+  - name: Stair
+    uniqueID: 2271118727
+    locked: 0
+  - name: Land
+    uniqueID: 2562362667
+    locked: 0
+  - name: Land2
+    uniqueID: 982272715
+    locked: 0
+  - name: Rock
+    uniqueID: 1475374881
+    locked: 0
